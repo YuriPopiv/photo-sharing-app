@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">photo-sharing-app</string>
+    <string name="sign_in_create_account">Sign In</string>
+    <string name="phone">Email</string>
+    <string name="user_signin">Sign In</string>
+    <string name="app_title">Photo Sharing App</string>
+    <string name="hide_password">Hide Password</string>
+    <string name="show_password">Show Password</string>
+    <string name="password">Password</string>
+    <string name="cd_menu">Menu</string>
+</resources>

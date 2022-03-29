@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="sign_in_fragment" type="id" />
+    <item name="sign_up_fragment" type="id" />
+    <item name="gallery_fragment" type="id" />
+</resources>

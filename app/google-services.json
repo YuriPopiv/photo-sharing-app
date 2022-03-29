@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "494034718648",
+    "project_id": "photo-sharing-6b5c8",
+    "storage_bucket": "photo-sharing-6b5c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494034718648:android:33dadd2e12f01576a4894d",
+        "android_client_info": {
+          "package_name": "com.popivyurii.photosharing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494034718648-0r7v4jplcu3vcog50jgp8pa2t9a83ejc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.popivyurii.photosharing",
+            "certificate_hash": "02a78c314a385a4e9a02a43d372fa4dcc782417e"
+          }
+        },
+        {
+          "client_id": "494034718648-vqt3p3enm1qhihvsqad9i23gounlk7bt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUsaWRATvmTN0TLwCmQNs2mH3FA7lyfBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494034718648-vqt3p3enm1qhihvsqad9i23gounlk7bt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
